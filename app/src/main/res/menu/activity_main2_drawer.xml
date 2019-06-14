@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/imail"
+            android:icon="@drawable/mail1"
+            android:title="Email" />
+        <item
+            android:id="@+id/add"
+            android:icon="@drawable/add"
+            android:title="Add Dish" />
+        <item
+            android:id="@+id/viewD"
+            android:icon="@drawable/view1"
+            android:title="View Dish" />
+        <item
+            android:id="@+id/viewR"
+            android:icon="@drawable/view2"
+            android:title="View Receipt" />
+    </group>
+
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/isend"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

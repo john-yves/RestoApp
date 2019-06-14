@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Femous</string>
+    <string name="user_emailone">User Email</string>
+    <string name="password_for_user">Password</string>
+    <string name="login_button">Login</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">username</string>
+    <string name="femous_resto">Femous RESTO</string>
+    <string name="fastfood">Fastfood</string>
+</resources>
